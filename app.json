@@ -1,6 +1,6 @@
 {
-  "name": "{{project_name}}",
-  "description": "{{project_name|title}} Heroku app.",
+  "name": "Poker Stats Tracker",
+  "description": "Poker Stats Tracker Heroku app.",
   "scripts": {
     "postdeploy": "python manage.py migrate"
   },
